@@ -1,0 +1,2 @@
+module maraton1 {
+}
